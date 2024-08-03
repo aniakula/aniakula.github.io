@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Anirudh Akula"
 title_separator          : "-"
 name                     : &name "Anirudh Akula"
-description              : &description "BS and MS student of Computer Science at The Universoty of Pennsylvania"
+description              : &description "BS and MS student of Computer Science at The University of Pennsylvania"
 url                      : https://aniakula.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aniakula.github.io"
@@ -22,13 +22,13 @@ repository               : "aniakula.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Anirudh(Ani) Akula"
+  pronouns         : "He/Him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Pennsylvania"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "aniakula@seas.upenn.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "aniakula"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
